@@ -1,13 +1,73 @@
 @media screen and (max-width: 480px){
+  #sodimac img{
+    margin:auto;
+    width: 50%;
+    padding: 2%;
+}
+
+ 	#osa img {
+    margin: auto;
+    width: 20%;
+}
+
+#chileesmar img{
+  margin:auto;
+  width: 18%;
+}
+
+  #stor img{
+  width: 20%;
+  margin: auto;
   
+}
 }
 
 @media screen and (max-width: 667px){
+  #sodimac img{
+    margin:auto;
+    width: 50%;
+}
 
+	#osa img {
+    margin: auto;
+    width: 13%;
+
+}
+
+#chileesmar img{
+  margin:auto;
+  width: 14%;
+}
+
+ #stor img{
+  width: 20%;
+  margin: auto;
+  
+}
   }
 
 @media screen and (max-width: 1024px){
-    
+    #sodimac img{
+    margin:auto;
+    width: 50%;
+}
+
+  #osa img {
+    margin: auto;
+    width: 13%;
+
+}
+
+#chileesmar img{
+  margin:auto;
+  width: 12%;
+}
+
+ #stor img{
+  width: 20%;
+  margin: auto;
+  
+}
   }
 
 @media screen and (max-width: 1600){

@@ -1,0 +1,101 @@
+.container{
+	background: #EFEFEF;
+}
+#box-ins{
+	padding: 0px !important;
+}
+
+#sodimac{
+	width: 100%;
+    height: 5.7em;
+    background: #fff;
+    margin: auto;
+    padding: 0.9em;
+}
+
+#sodimac img{
+	margin:auto;
+	
+}
+
+#chileesmar{
+	width: 100%;
+    height: 5.7em;
+    background: #fff;
+    margin: auto;
+    padding: 0.9em;
+}
+
+#chileesmar img{
+	margin:auto;
+	width: 24.5%;
+}
+
+#osa{
+	width: 100%;
+    height: 5.7em;
+    background: #fff;
+    margin: auto;
+    padding: 0.9em;
+}
+
+#osa img{
+	
+	width: 48%;
+}
+
+#stor{
+	width: 100%;
+    height: 5.7em;
+    background: #fff;
+    margin: auto;
+    padding: 0.9em;
+}
+
+#stor img{
+	width: 100%;
+	
+}
+
+#titulo{
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+.box-c{
+	padding: 2em;
+}
+
+.box-c img{
+	width: 50%;
+    margin: auto;
+}
+
+/*estilos carousel*/
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    height: 660px;
+    overflow: hidden;
+}
+
+.carousel-indicators .active {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #f71212;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: #000;
+    border: 1px solid;
+    border-radius: 10px;
+}
