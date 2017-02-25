@@ -20,6 +20,10 @@
   margin: auto;
   
 }
+
+  .esconder{
+  display: none;
+}
 }
 
 @media screen and (max-width: 667px){
@@ -44,9 +48,15 @@
   margin: auto;
   
 }
+.esconder{
+  display: none;
+}
+
+
   }
 
 @media screen and (max-width: 1024px){
+
     #sodimac img{
     margin:auto;
     width: 50%;
@@ -68,6 +78,11 @@
   margin: auto;
   
 }
+
+.esconder{
+  display: none;
+}
+
   }
 
 @media screen and (max-width: 1600){
